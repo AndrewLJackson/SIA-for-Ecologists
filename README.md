@@ -7,6 +7,13 @@ The principle aim of this repository is to act as a community-driven wiki with l
 
 Although this repository was created by by [Andrew Parnell](https://github.com/AndrewCParnell) and [Andrew Jackson](https://github.com/AndrewLJackson), we are likely to not update it regularly.
 
+## Related Software
+There are many software for analysiing stable isotope data for ecology. Check the associated website for each project for specific learning resources, and instructions on how to seek help with questions and queries.
++ [MixSIAR](https://github.com/brianstock/MixSIAR)
++ [SIAR](https://github.com/AndrewLJackson/siar) - which is soon to be deprecated (message posted 13/01/2015)
++ [SIBER](https://github.com/AndrewLJackson/SIBER)
++ [simmr](https://github.com/andrewcparnell/simmr)
+
 ## Other Sources of Information
 + The SIAR / MixSIAR [Facebook page](https://www.facebook.com/SIAR-Stable-Isotope-Analysis-in-R-148501811896914/)
 + Twitter
