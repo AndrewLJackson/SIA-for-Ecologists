@@ -1,7 +1,7 @@
 # SIA-for-Ecologists
 A repository for hosting wikis and other documentation and resources for Stable Isotope Analysis aimed at Ecologists and related disciplines.
 
-The [wiki is open](https://github.com/AndrewLJackson/SIA-for-Ecologists/wiki) for public editing.
+The [wiki is open](https://github.com/AndrewLJackson/SIA-for-Ecologists/wiki) for public editing. Please be careful when hosting data or research papers that you are aware of the associated publishing licences.
 
 This github repository is related to the Stable Isotope Mixing Model course run by [Andrew Parnell](https://github.com/AndrewCParnell) and [Andrew Jackson](https://github.com/AndrewLJackson). The [homepage for the course](https://rawgit.com/andrewcparnell/simms_course/master/Timetable.html) contains links to additional resources and packages.
 
